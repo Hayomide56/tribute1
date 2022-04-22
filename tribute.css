@@ -1,0 +1,40 @@
+body{
+	background-color: white;
+	margin-top: 2px;
+}
+.heading{
+	padding-top: 1%;
+	font-family: Monospace;
+	background-color: rgba(129, 133, 137, 0.3); 
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	padding: 10px;
+}
+#alias{
+	text-align: center;
+}
+#picture{
+	background-color: white;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+}
+.caption{
+	background-color: white;
+	text-align: center;
+	font-family: Rainbow;
+}
+#menu{
+	height: 20px;
+}
+.list{
+	background-color: rgba(129, 133, 137, 0.3);
+	text-align: center;
+	padding-left: 5%;
+	margin-top: 10%;
+}
